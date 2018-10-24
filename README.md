@@ -1,2 +1,2 @@
 # HTTP-Downloader
-http downloader for ence360
+http downloader for ECNE360 (2018).
